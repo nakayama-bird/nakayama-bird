@@ -1,5 +1,7 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=nakayama-bird&color=yellowgreen)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,ruby,js,nodejs,yarn,mysql,postgres,docker,vscode,github,heroku)](https://skillicons.dev)
 <!--
 **nakayama-bird/nakayama-bird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
