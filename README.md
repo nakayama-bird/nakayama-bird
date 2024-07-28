@@ -7,7 +7,7 @@
 ### 学習中👩‍💻
 [![My Skills](https://skillicons.dev/icons?i=html,css,ruby,js,nodejs,yarn,mysql,postgres,docker,vscode,github,heroku)](https://skillicons.dev)
 
-### 作成したアプリケーション
+### 作成したアプリケーション💫
 
 |[My Coffee Diary](https://github.com/nakayama-bird/my_coffee_diary)|
 | :-: |
