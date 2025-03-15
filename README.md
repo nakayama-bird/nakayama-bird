@@ -10,7 +10,7 @@
 <img src="https://github.com/user-attachments/assets/941c7f05-d1aa-44b0-9eb8-1407adfb5b54" width=100>
 
 ### 作成したアプリケーション💫
-|[Me Time Meals](https://www.metime-meals.com/)|My Coffee Diary（サービス終了）|
+|Me Time Meals（サービス終了）|My Coffee Diary（サービス終了）|
 |:-:| :-: |
 |![ogp](https://github.com/user-attachments/assets/988c6024-d0f7-40e5-9c53-4338ab222f84)|![My Coffee Diary](https://github.com/user-attachments/assets/2e9af20e-983b-4c45-a9ce-1e0381fe8b83)|
 |[リポジトリ](https://github.com/nakayama-bird/metime-meals)|[リポジトリ](https://github.com/nakayama-bird/my_coffee_diary)|
