@@ -1,7 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=nakayama-bird&color=yellowgreen)
+
 ### 技術記事✏️
 - [Qiita](https://qiita.com/nakayama-bird)
 - [Zenn](https://zenn.dev/nakayama_bird)
+
+### スクラップ✍️
+- [Cosence](https://scrapbox.io/nakayamabird/)
 
 ### 資格🎖️
 <img src="https://github.com/user-attachments/assets/941c7f05-d1aa-44b0-9eb8-1407adfb5b54" width=100>
