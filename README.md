@@ -4,7 +4,7 @@
 - [Zenn](https://zenn.dev/nakayama_bird)
 
 ### 学習中👩‍💻
-[![My Skills](https://skillicons.dev/icons?i=html,css,ruby,js,nodejs,yarn,mysql,postgres,docker,vscode,github,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,mysql,docker,vscode,github)](https://skillicons.dev)
 
 ### 資格🎖️
 <img src="https://github.com/user-attachments/assets/941c7f05-d1aa-44b0-9eb8-1407adfb5b54" width=100>
