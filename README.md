@@ -10,7 +10,9 @@
 ### 資格🎖️
 2024/8
 Ruby Association Certified Ruby Programmer Silver version 3
+
 <img src="https://github.com/user-attachments/assets/941c7f05-d1aa-44b0-9eb8-1407adfb5b54" width=100>
+
 2025/8
 基本情報技術者試験
 
