@@ -1,5 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=nakayama-bird&color=yellowgreen)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nakayama-bird)
+
+
 ### 技術記事✏️
 - [Qiita](https://qiita.com/nakayama-bird)
 - [Zenn](https://zenn.dev/nakayama_bird)
