@@ -19,6 +19,12 @@ Ruby Association Certified Ruby Programmer Silver version 3
 2025/8
 基本情報技術者試験
 
+2026/5
+AWS Certified Solutions Architect – Associate
+
+<img width="100" height="100" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/06a13107-372d-4553-b579-6e74918d9f94" />
+
+
 ### 作成したアプリケーション💫
 |Me Time Meals（サービス終了）|My Coffee Diary（サービス終了）|
 |:-:| :-: |
